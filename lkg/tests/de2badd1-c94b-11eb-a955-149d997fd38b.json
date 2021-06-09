@@ -2,6 +2,7 @@
     "fist test june 9th new gitignore": {
         "description": "", 
         "is_deactivated": false, 
+        "original_title": "fist test june 9th new gitignore", 
         "steps": [
             {
                 "continue_on_failure": false, 
