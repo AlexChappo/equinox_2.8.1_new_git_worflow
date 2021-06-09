@@ -1,0 +1,35 @@
+{
+    "fist test june 9th new gitignore": {
+        "description": "", 
+        "is_deactivated": false, 
+        "steps": [
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "myprofile"
+                ], 
+                "type": "action", 
+                "widget": "default"
+            }
+        ], 
+        "tags": [], 
+        "temp_id": "de2badd1-c94b-11eb-a955-149d997fd38b", 
+        "title": "fist test june 9th new gitignore"
+    }
+}
