@@ -48,7 +48,11 @@
             "x": 870, 
             "xPercent": 45.299479166666664, 
             "y": 56, 
+<<<<<<< HEAD
+            "yPercent": 0.8181014150943398
+=======
             "yPercent": 0.827123695976155
+>>>>>>> main
         }, 
         "location": {
             "x": 870, 
@@ -65,7 +69,11 @@
     "package": "", 
     "password": false, 
     "resource-id": "", 
+<<<<<<< HEAD
+    "screen_hash": "f4089d7e6bb2aa5e135dd6318b91b328", 
+=======
     "screen_hash": "25c994517406ead8c65bf4dc3262f51a", 
+>>>>>>> main
     "scrollable": false, 
     "tag_name": "a", 
     "text": "Personal Training", 
